@@ -1,0 +1,17 @@
+《光明与黑暗——卡拉迪亚的英雄传说》 v1.031     2012年8月28日更新
+
+一、使用须知：
+1、更多内容及讨论，欢迎进入骑马与砍杀中文站光明与黑暗专区：
+   http://bbs.mountblade.com.cn/forumdisplay.php?fid=29
+2、如果您喜欢这款游戏，请支持作者开发：
+   http://bbs.mountblade.com.cn/viewthread.php?tid=311228
+3、如果启动游戏出错，请在游戏启动界面点配置---图像---在需要时再载入纹理前面的勾去掉。
+
+二、版权相关：
+本游戏使用的所有外部资源均已得到原创作者许可。未经原创作者授权，不能将本游戏的任何资源素材在其它地方使用或发行。
+
+三、鸣谢：
+
+ 《骑马与砍杀》的制作团队TaleWorlds： http://forums.taleworlds.com
+ 骑马与砍杀中文站论坛： http://bbs.mountblade.com.cn
+

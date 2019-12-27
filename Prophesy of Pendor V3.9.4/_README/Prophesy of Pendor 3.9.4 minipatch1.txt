@@ -1,0 +1,38 @@
+Compatible with 3.9.4 savegames
+
+
+BUGS/ISSUES
+- fixed inappropriate upkeep for KO stronghold
+- fixed an issue with certain horses not being healed by Derafsh 
+- some quest dialogs mistakes fixed and redone for consistency
+- moved extra animations from walk_forward_left to walk_forward_left_polearm (thanks to Hoboistice for tips)
+ 
+ 
+GAMEPLAY
+- if KO "order challenge quest" is in progress, KO "bounty quest" won't give any troops as reward; return "order challenge quest" first, then "bounty quest" to have a chance to receive troops 
+- Knights of the Griffon won't be offered by ransom brokers if their chapter don't exist 
+
+
+TROOPS
+- Shadow Wolves received additional weapon (Empire Great Sword) - performance in the actual battle has increased 
+- Iron Circle Centurion: Immortal Shield -> Knightly Heater Shield (fits better new armor)
+- adjusted items and banner used by Agathon Legatus to fit new color scheme of ICC
+- nerfed Eyegrim's army a bit:
+-- capped at about 5000 (was unlimited)
+-- Fallen Warrior: removed not guaranteed horse, converted from units level >31 (was >=31) 
+
+
+ITEMS
+- redone model of Empire Inlayed Armor (used by Iron Circle Centurion)
+- redone model of Scythe; added "is_pike" flag
+- redone model of Steel Voulge
+- set unique model to Manopener; added "unique" flag 
+- Demonic Magnus head will be displayed during encounters (itp_covers_head -> itp_fit_to_head; thanks to UndeadDuke)
+- Arquebus - smoke is emitted more horizontal
+- Pitch Fork removed flags "is_pike", "spear", "overswing_spear"; added "carry_spear"
+- Practice Dagger added "wooden_parry" flag (was metal sounds when chambered)
+- Long Spiked Club, Long Hafted Knobbed Mace and Long Hafted Spiked Mace added "overswing_musket" flag
+
+
+OTHER
+- up-to-date Chinese translation
